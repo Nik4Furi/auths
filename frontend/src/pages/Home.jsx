@@ -12,7 +12,9 @@ const Home = () => {
 
   const [users, setUsers] = useState([]);
 
-  const url = 'http://localhost:8000/api/user';
+  // console.log(import.meta.env.VITE_BACKEND_URL)
+
+  const url = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000/api/user';
 
 
   const fetchAllUsers = async () => {

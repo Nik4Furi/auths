@@ -10,7 +10,7 @@ const Register = () => {
   //---------function handleChange
   const handleChange = (e) => setForm({ ...form, [e.target.name]: e.target.value });
 
-  const url = 'http://localhost:8000/api/user';
+  const url = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000/api/user';
 
   const navigate = useNavigate();
 
