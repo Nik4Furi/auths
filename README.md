@@ -20,12 +20,20 @@ Making the authentication with api_stuff
 
 ## <h2 id="looks" >auths looks like</h2>
 
+![users](https://github.com/Nik4Furi/auths/assets/91304976/888e8fda-a21f-4009-970e-208c3a9005c9)
+![Register](https://github.com/Nik4Furi/auths/assets/91304976/052bb444-f654-41e5-981f-f8b2f5bc8324)
+![login](https://github.com/Nik4Furi/auths/assets/91304976/e49f559a-70c7-4466-af1e-0887dfd2455d)
+
+
 
 <a href="#auths">Go Home </a>
 
 
 
 ## <h2 id="demo" >Demo </h2>
+
+
+![image](https://github.com/Nik4Furi/auths/assets/91304976/8b9898cb-8ca7-4435-8bae-91fc307401cc)
 
 
 <a href="#auths">Go Home </a>
