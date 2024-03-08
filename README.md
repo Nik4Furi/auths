@@ -1,6 +1,8 @@
 # <h1 id="auths"> auths </h1>
 Making the authentication with api_stuff
 
+[Live](https://auths-eight.vercel.app/)
+
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
 ####   <p><a href="#looks" >auths look like</a></p>
